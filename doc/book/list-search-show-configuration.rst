@@ -271,7 +271,7 @@ These are the options that you can define for each field:
   how the contents are displayed. The allowed values are:
 
   * Any of the Doctrine types: ``array``, ``association``, ``bigint``, ``blob``,
-    ``boolean``, ``date``, ``datetime``, ``datetimetz``, ``decimal``, ``float``,
+    ``boolean``, ``collection``, ``date``, ``datetime``, ``datetimetz``, ``decimal``, ``float``,
     ``guid``, ``integer``, ``json_array``, ``object``, ``simple_array``,
     ``smallint``, ``string``, ``text``, ``time``.
   * Any of the custom EasyAdmin types: ``email``, ``file``, ``image``, ``raw``,
